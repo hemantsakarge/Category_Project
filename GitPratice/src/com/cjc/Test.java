@@ -14,5 +14,7 @@ public class Test {
 		System.out.println("Sop Statement added by Pallavi");
 	}
 	
-	
+	public  void m1(){
+		System.out.println("Created M1 Method By Rahul");
+	}
 }
